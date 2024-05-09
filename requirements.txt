@@ -1,0 +1,7 @@
+streamlit==0.87.0
+PyPDF2==1.26.0
+docx2txt==0.9
+nltk==3.6.6
+matplotlib==3.4.3
+scikit-learn==0.24.2
+wordcloud==1.8.1
